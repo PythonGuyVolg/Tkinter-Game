@@ -2,8 +2,8 @@
 from EgorEnginev1t1 import *
 import random
 '''Module code is end'''
-musicFile1 = 'Onground.wav'
-musicFile2= 'DOOM.mp3'
+musicFile1 = 'EarthSound.mp3'
+musicFile2= 'Doom-E1M1_SC-8850.mp3.mp3'
 arr = [['1','0','0','0','0','0','0','0','0','0'],
       ['0','1','1','0','0','0','0','0','1','1'],
       ['0','0', '0','1','0','1','1','1','0','0', '1'],
