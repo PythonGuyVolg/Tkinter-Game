@@ -84,7 +84,7 @@ all_coll()
 gravity(name = 'hero', power = 5)
 
 #gravity(name = 'evil2', power = 1)
-print(uploadwav(media = MusicFile2, name = 'DOOM'))
+print(uploadwav(media = musicFile2, name = 'DOOM'))
 
 playwav(name = 'DOOM')
 
