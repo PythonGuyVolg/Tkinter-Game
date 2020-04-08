@@ -4,7 +4,7 @@ import random
 '''Module code is end'''
 
 musicFile1 = 'EarthSound.mp3'
-musicFile2= 'Doom-E1M1_SC-8850.mmp3'
+musicFile2= 'Doom-E1M1_SC-8850.mp3'
 arr = [['1','0','0','0','0','0','0','0','0','0'],   #Game map( changeable )
       ['0','1','1','0','0','0','0','0','1','1'],    # 1 - ground, 0 - air, 2 - 'hero'
       ['0','0', '0','1','0','1','1','1','0','0', '1'],
