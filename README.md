@@ -18,5 +18,6 @@ Libraries used:      |
 --- tkinter          | 
 --- random           |
 --- threading        |
---- playsound        | 
+--- playsound
+---| 
 ---------------------|
