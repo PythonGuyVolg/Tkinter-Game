@@ -8,3 +8,15 @@ S - DOWN
 W - UP (pls, don't press capslock! and  select english(UK) keyboard layout).     
 Enjoy it.
 Egor from Volgograd, April 8th
+
+
+
+
+
+---------------------|
+Libraries used:      |
+--- tkinter          | 
+--- random           |
+--- threading        |
+--- playsound        | 
+---------------------|
