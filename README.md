@@ -1,6 +1,6 @@
 # Tkinter-Game
 
-This game based on tkinter and python 3.7. I hope you  will like this 'game'. If you dont have music in the game, pls, specific the path to EarthSound.mp3 and DOOM.mp3 in Musicname1 and Musicname 2. Good luck!
+This game based on tkinter and python 3.7.6. I hope you  will like this 'game'. If you dont have music in the game, pls, specific the path to EarthSound.mp3 and DOOM.mp3 in Musicname1 and Musicname 2. Good luck!
 CONTROL:
 A - LEFT.                                                                                 SPACE - JUMP
 D - RIGHT
@@ -13,11 +13,10 @@ Egor from Volgograd, April 8th
 
 
 
----------------------|
-Libraries used:      |
---- tkinter          | 
---- random           |
---- threading        |
---- playsound
----| 
----------------------|
+---------------------------
+Libraries used:     
+   tkinter          
+   random           
+   threading        
+   playsound
+
