@@ -2,7 +2,7 @@ How to compile THEGAME.py on Mac os X:
 1. Download all files from GitHub(.zip)
 2. Unarchive .zip
 3. Put unzipped folder into /Applications on your Mac
-4. *Download py2app, threading, playsound and python 3.7.6 or later*(if you dont download its later)
+4. *Download py2app, threading, playsound and python 3.7.6 or later*(if you have not downloaded them before)
 5 open Terminal( Terminal.app )
 6 put this commands into Terminal:
   py2applet --make-setup ....../Applications/......./THEGAME.py
