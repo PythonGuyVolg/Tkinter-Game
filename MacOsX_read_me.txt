@@ -12,7 +12,7 @@ How to compile THEGAME.py on Mac os X:
    /// CONSOLE: ...... DONE!
     ""If the program work correctly you should be make this command: python setup.py py2app. (without -A) to pack all python files in one .app file""
  7  Run program: $ ./dist/MyApplication.app/Contents/MacOS/MyApplication ( in Terminal ) OR find your app on your mac with spotlight( or finder).
- 8. If you are not watching image click on run .app file in docs. 
+ 8. If you are not watching image click on running .app file in Dock. 
  
  9. Enjoy!!!!!! 
  
