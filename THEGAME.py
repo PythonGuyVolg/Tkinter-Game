@@ -82,7 +82,6 @@ KeyPress('move', 's', name = 'hero', side = 'down', intervalx = 0, intervaly = 5
 KeyPress(jump, '<Key-space>', name = 'hero')
 KeyPress('move', 'w', name = 'hero', side = 'up', intervalx = 0, intervaly = 5)
 KeyPress('move', 'a', name = 'hero', side = 'left', intervalx = 5, intervaly = 0)
-KeyPress(quit, '<Escape>')
 all_coll()
 gravity(name = 'hero', power = 5) # Gravity for 'hero'
 
